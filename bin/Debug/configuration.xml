@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+<browser name = "Chrome" path = "C:\\Users\\madie\\Desktop\\Qualification\\Qualification\\Drivers"></browser>
+<userdata>
+  <sender mail="temp.temp.2019@list.ru" password="password2468"></sender>
+  <recipient mail="temp.temp.93@list.ru" password="password2468"></recipient>
+</userdata>
+</configuration>
