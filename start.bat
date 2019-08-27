@@ -1,0 +1,1 @@
+"nunit-console/nunit3-console.exe" Qualification.csproj
